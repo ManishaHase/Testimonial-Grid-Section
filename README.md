@@ -1,10 +1,7 @@
-## Testimonial-Grid-Section!!
+##   Testimonial-Grid-Section!!
 
-   ######
-   
-
-
-## Project Description ♻
+  
+##  Project Description ♻
       This challenge is help me for perfect practice to test the CSS Grid skills. Grid is such a powerful addition to CSS, 
        so it's worth getting to grips with it! 
      
@@ -14,12 +11,12 @@
 <img src="https://github.com/ManishaHase/Testimonial-Grid-Section/blob/main/Screen%20Shot.jpeg" width="300" height="300" />
 
 
-## Github Repository Link 👉
-           https://manishahase.github.io/Testimonial-Grid-Section/
+## Github Repository Link :
+      https://manishahase.github.io/Testimonial-Grid-Section/
     
     
 ## Host Link👉
-            https://polite-stardust-544a27.netlify.app
+      https://polite-stardust-544a27.netlify.app
   
   
 ## Key-Takeaways🦚
