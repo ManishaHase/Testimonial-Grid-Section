@@ -9,7 +9,7 @@
        so it's worth getting to grips with it! 
      
 
-## Image View: 📷
+## Project-View: 📷
 
 <img src="https://github.com/ManishaHase/Testimonial-Grid-Section/blob/main/Screen%20Shot.jpeg" width="300" height="300" />
 
